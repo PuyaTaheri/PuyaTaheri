@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="285" src="https://giffiles.alphacoders.com/105/105296.gif"  />
+  <img height="285" src="./_r_.gif"  />
 </div>
 
 ###
@@ -7,25 +7,25 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="33" width="45" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="33" width="45" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="33" width="45" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="33" width="45" alt="typescript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="33" width="45" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="33" width="45" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="33" width="45" alt="csharp logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="33" width="45" alt="angularjs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="33" width="45" alt="dart logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="33" width="45" alt="flutter logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="33" width="45" alt="git logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="33" width="45" alt="mysql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="33" width="45" alt="npm logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="33" width="45" alt="sass logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="33" width="45" alt="vscode logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="33" width="45" alt="vuejs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="33" width="45" alt="wordpress logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" height="33" width="45" alt="woocommerce logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="33" width="45" alt="jquery logo"  />
+  <img src="./html5-original.svg" height="33" width="45" alt="html5 logo"  />
+  <img src="./javascript-original.svg" height="33" width="45" alt="javascript logo"  />
+  <img src="./css3-original.svg" height="33" width="45" alt="css3 logo"  />
+  <img src="./typescript-plain.svg" height="33" width="45" alt="typescript logo"  />
+  <img src="./react-original.svg" height="33" width="45" alt="react logo"  />
+  <img src="./python-original.svg" height="33" width="45" alt="python logo"  />
+  <img src="./csharp-original.svg" height="33" width="45" alt="csharp logo"  />
+  <img src="./angularjs-original.svg" height="33" width="45" alt="angularjs logo"  />
+  <img src="./dart-original.svg" height="33" width="45" alt="dart logo"  />
+  <img src="./flutter-original.svg" height="33" width="45" alt="flutter logo"  />
+  <img src="./git-original.svg" height="33" width="45" alt="git logo"  />
+  <img src="./mysql-original.svg" height="33" width="45" alt="mysql logo"  />
+  <img src="./npm-original-wordmark.svg" height="33" width="45" alt="npm logo"  />
+  <img src="./sass-original.svg" height="33" width="45" alt="sass logo"  />
+  <img src="./vscode-original.svg" height="33" width="45" alt="vscode logo"  />
+  <img src="./vuejs-original.svg" height="33" width="45" alt="vuejs logo"  />
+  <img src="./wordpress-original.svg" height="33" width="45" alt="wordpress logo"  />
+  <img src="./woocommerce-original.svg" height="33" width="45" alt="woocommerce logo"  />
+  <img src="./jquery-original.svg" height="33" width="45" alt="jquery logo"  />
 </div>
 
 ###
