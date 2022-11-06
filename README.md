@@ -32,10 +32,10 @@
 
 <br clear="both">
 
-<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+<img src="./_s_.svg">
 
 ###
-![Alt text](./_i_.svg)
+
 <img src="./_i_.svg">
 
 ###
